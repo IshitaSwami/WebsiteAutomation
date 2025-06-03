@@ -1,0 +1,16 @@
+
+Bug ID: BUG-20250530-202154
+Title: Cart total price incorrect for multiple same items
+Description: Adding the same moisturizer multiple times does not reflect correct total price in cart.
+Severity: High
+Steps to Reproduce:
+1. Go to the moisturizer page.
+2. Add the first moisturizer item to the cart twice.
+3. Click on the cart button.
+4. Check the total price.
+Expected Behavior:
+The total price should be 398 (2 × 199).
+Actual Behavior:
+The total price displayed is 199.
+
+(Note: This report was generated without OpenAI due to API quota limits.)
