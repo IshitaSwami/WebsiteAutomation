@@ -1,4 +1,4 @@
-# WebsiteAutomation
+# AI Enhanced Bug Report in ECommerce
 
 # WeatherShopper Automation
 
